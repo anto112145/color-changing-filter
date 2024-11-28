@@ -1,0 +1,17 @@
+#header{
+    background-color: pink;
+    margin: 10px;
+    padding-bottom: 100px;
+    width: 80%;
+    height: 50px;
+    text-align: center;
+}
+body{
+    background-color: #ffb6c1;
+}
+canvas{
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    margin-top: 70px;
+}
